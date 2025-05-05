@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="pacinginsoftbrush" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 I am an artist / researcher based at the Univeristy of Iowa.
