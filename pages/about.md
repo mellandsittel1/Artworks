@@ -44,4 +44,3 @@ Spring 2023; Green Space, a solo exhibition investigating the interaction of wov
 
 Spring 2022; Better is the Enemy of Good, collaborative exhibition with Dillon Charles Ward investigating the effects of surveillance technology on inter-personal relationships through hybridized materials, Parachute Factory, Lexington KY.
 
-{% include cb/about_the_about.md %} 
