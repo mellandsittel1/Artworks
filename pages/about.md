@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="pacinginsoftbrush" %}
+{% include feature/jumbotron.html objectid="hiddengem" %}
 
 ## About the Collection
 
